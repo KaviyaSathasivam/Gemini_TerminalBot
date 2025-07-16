@@ -43,6 +43,9 @@ quit
 or
 bye
 
+Screenshot of the terminal
+<img width="1398" height="642" alt="image" src="https://github.com/user-attachments/assets/18c326e0-6e6c-4ab4-8263-f366a43f795b" />
+
 
 📁 Project Structure
 
