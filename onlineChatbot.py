@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # Configure your API key
-API_KEY = "AIzaSyA4pm3U68uqNnpcLBH5aUKlZUMV8qtlO0A"  # Replace with your actual Gemini API key
+API_KEY = ""  # Replace with your actual Gemini API key
 ai.configure(api_key=API_KEY)
 
 # Initialize the Gemini model and chat session
